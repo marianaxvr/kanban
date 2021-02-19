@@ -23,9 +23,9 @@ export const Container = styled.div`
     }
 
     button {
-      width: 42px;
-      height: 42px;
-      border-radius: 18px;
+      width: 30px;
+      height: 30px;
+      border-radius: 20px;
       background: #007FFF;
       border: 0;
       cursor: pointer;
